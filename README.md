@@ -24,7 +24,7 @@ Você pode ter acesso ao protótipo [clicando aqui](https://www.figma.com/proto/
 
 ## Equipe 👥
 - [Hugo Davi Silva de Andrade](https://www.linkedin.com/in/hugo-davi-silva-de-andrade-b12448249/) - Product Owner
-- [Gabriela Souza Pereira](www.linkedin.com/in/gabrielasouzap) - Scrum Master
+- [Gabriela Souza Pereira](www.linkedin.com/in/gabrielasouzap/) - Scrum Master
 - [Caio Assunção Leal](https://www.linkedin.com/in/caio-leal-513556248/)
 - [Ioshua Noia de Oliveira](https://www.linkedin.com/in/ioshua-noia-06344a251/)
 - [Laura Beatriz Lima de Araújo](https://www.linkedin.com/in/laura-lima-araujo/)
