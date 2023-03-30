@@ -12,7 +12,7 @@ Olá! Este foi um projeto desenvolvido em equipe para a Residência Onboard do P
 </div> 
 
 ## Descrição do projeto 📝
-O Run & Raid é uma aplicação mobile de corrida gamificado, onde você pode se exercitar se divertindo. A gamificação se faz pela contagem de pontos após derrotar bosses e concluir trajetos. Os pontos podem ser trocados por itens customisáveis para o seu personagem. Além da pontuação, existe também um sistema de emblemas e títulos, que você pode desbloquear de acordo com o seu desempenho no aplicativo.
+O Run & Raid é uma aplicação mobile de corrida gamificado, onde você pode se exercitar se divertindo. A gamificação se faz pela contagem de pontos após derrotar bosses e concluir trajetos. Os pontos podem ser trocados por itens customizáveis para o seu personagem. Além da pontuação, existe também um sistema de emblemas e títulos, que você pode desbloquear de acordo com o seu desempenho no aplicativo.
 
 ## Status do projeto ✅
 Concluído!
