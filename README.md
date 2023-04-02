@@ -1,28 +1,35 @@
-# Run & Raid - Não é apenas uma corrida, é o caminho para vitória!
+<h1 align="center">Run & Raid - It's not just a race, it's the way up to victory!</h1>
 
 <div align="center">
   <img alt="Logo" height="300" width="300" src="https://user-images.githubusercontent.com/120505949/208316238-18203059-bca4-40d3-afb4-ab818dd4085c.png">
 </div>
 
-Olá! Este foi um projeto desenvolvido em equipe para a Residência Onboard do Porto Digital com o tema "As pontes que os esportes constroem". Nessa fase de Kick Off, foi nos pedido a idealização de um produto - com persona, matriz CSD, jornada do usuário, etc - e um protótipo navegável.
+<p align="center">Hello! This was a project developed as a team for Porto Digital's Onboard Residency with the theme "The bridges that sports build". In this Kick Off phase, we were asked to idealize a product - with persona, CSD matrix, user journey, etc - and a navigable prototype.</p>
 
-## Protótipo
+<p align="center">
+  <a href="#prototype-">Prototype</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#about-">About</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#tools-%EF%B8%8F">Tools</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#team-">Team</a>
+</p>
+
+## Prototype 📱
 <div>
   <img src="https://user-images.githubusercontent.com/120505949/208320123-a5632e08-3158-4640-bde2-0219cf53a12a.png">
 </div> 
 
-## Descrição do projeto 📝
-O Run & Raid é uma aplicação mobile de corrida gamificado, onde você pode se exercitar se divertindo. A gamificação se faz pela contagem de pontos após derrotar bosses e concluir trajetos. Os pontos podem ser trocados por itens customizáveis para o seu personagem. Além da pontuação, existe também um sistema de emblemas e títulos, que você pode desbloquear de acordo com o seu desempenho no aplicativo.
+## About 📝
+<p align="justify">Run & Raid is a gamified running mobile application, where you can exercise while having fun. The gamification is done by counting points after defeating bosses and completing paths. Points can be exchanged for customizable items for your character. In addition to the score, there is also a system of badges and titles, which you can unlock according to your performance in the game.</p>
 
-## Status do projeto ✅
-Concluído!
+## Project Status ✅
+Done!
 
-## Ferramentas 🛠️
-A ferramenta utilizada para desenvolver o protótipo navegável foi o [Figma](https://www.figma.com/).
+## Tools 🛠️
+The tool used to develop the navigable prototype was [Figma](https://www.figma.com/).
 
-Você pode ter acesso ao protótipo [clicando aqui](https://www.figma.com/proto/Lsd7kUpaIOiYNdUiIqM23O/Run-%26-Raid-v1?node-id=429%3A27&scaling=scale-down&page-id=0%3A1&starting-point-node-id=429%3A27).
+You can access the prototype by [clicking here](https://www.figma.com/proto/Lsd7kUpaIOiYNdUiIqM23O/Run-%26-Raid-v1?node-id=429%3A27&scaling=scale-down&page-id=0%3A1&starting-point-node-id=429%3A27).
 
-## Equipe 👥
+## Team 👥
 - [Hugo Davi Silva de Andrade](https://www.linkedin.com/in/hugo-davi-silva-de-andrade-b12448249/) - Product Owner
 - [Gabriela Souza Pereira](https://www.linkedin.com/in/gabi-sp/) - Scrum Master
 - [Caio Assunção Leal](https://www.linkedin.com/in/caio-leal-513556248/)
